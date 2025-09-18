@@ -338,6 +338,9 @@ GEM
       rubyzip (>= 1.2.2, < 4.0)
       websocket (~> 1.0)
     shellany (0.0.1)
+    simple_form (5.1.0)
+      actionpack (>= 5.2)
+      activemodel (>= 5.2)
     sprockets (4.2.2)
       concurrent-ruby (~> 1.0)
       logger
@@ -406,6 +409,7 @@ DEPENDENCIES
   rails (~> 7.2.2, >= 7.2.2.2)
   rubocop-rails-omakase
   selenium-webdriver
+  simple_form (~> 5.1.0)
   sprockets-rails
   stimulus-rails
   turbo-rails
