@@ -37,6 +37,7 @@ gem "mini_racer", platforms: :ruby
 
 # assets
 gem "autoprefixer-rails"
+gem "sass-rails"
 
 # seed
 gem "faker"
