@@ -41,6 +41,8 @@ gem "autoprefixer-rails"
 # seed
 gem "faker"
 
+gem "simple_form", "~> 5.1.0"
+
 group :development, :test do
 gem "dotenv-rails"
 gem "bundler-audit", require: false
