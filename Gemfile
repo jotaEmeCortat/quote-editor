@@ -42,7 +42,7 @@ gem "sass-rails"
 # seed
 gem "faker"
 
-gem "simple_form", "~> 5.1.0"
+gem "simple_form", "~> 5.3.1"
 
 group :development, :test do
 gem "dotenv-rails"
